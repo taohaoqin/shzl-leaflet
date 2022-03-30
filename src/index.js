@@ -67,7 +67,7 @@ let pointCorrection = function pointCorrection(L) {
             Annotion: '//t{s}.tianditu.gov.cn/DataServer?T=cta_w&X={x}&Y={y}&L={z}&tk={key}',
          },
          Inner: {
-            Map: 'http://10.183.202.42:8219/tile?x={x}&y={y}&z={z}&type=WGS84',
+            Map: '/sgup/tile?x={x}&y={y}&z={z}&type=WGS84',
          },
          Subdomains: ['0', '1', '2', '3', '4', '5', '6', '7'],
          key: '174705aebfe31b79b3587279e211cb9a',
